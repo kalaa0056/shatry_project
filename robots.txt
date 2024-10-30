@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kalaa0056.github.io/shatry_project/sitemap.xml
