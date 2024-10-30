@@ -1,3 +1,7 @@
+<HEAD>
 User-agent: *
 Allow: /
+User-agent: *
+Allow: /
+ ecfa9f554a2d781f1c9e934ba5b05e43377b9064
 Sitemap: https://kalaa0056.github.io/shatry_project/sitemap.xml
